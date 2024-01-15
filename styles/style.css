@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+}
+.container{
+    max-width: 1170px;
+    width: 82%;
+    height: 500px;
+    margin: 0 auto;
+    font-family: 'Mulish', sans-serif;
+}
+
+ /* header section styles */
+
+.banner{
+    margin-top:40px;
+   background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+   width: 100%;
+}
+.select{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+    position: relative;
+    top: 40%;
+    width: 680px;
+    height: auto;
+    margin-left: 250px;
+    gap: 25px;
+    
+}
+.banner h1{
+    text-align: center;
+    color: #FFF;
+font-size: 64px;
+font-weight: 800;
+position: relative;
+top: 20%;
+
+     
+}
+.banner h5{
+    text-align: center;
+    color: #FFF;
+font-size: 16px;
+font-weight: 400;
+margin-top: 10px;
+position: relative;
+top: 20%;
+}
+.select  input ,select{
+    width: 174px;
+    height: 50px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 5px;
+    
+}
+  .select button{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+}
+
+/* nav bar styles */
+.nav{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+li{
+list-style: none;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.list{
+    display: flex;
+    gap: 30px;
+}
+.color{
+    color: #FF5400;;
+}
+.nav h1{
+color: #131318;   
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+}
+.nav li{
+    color:  #424247;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+
+

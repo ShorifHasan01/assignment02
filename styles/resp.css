@@ -1,0 +1,48 @@
+@media screen and (max-width:576px) {
+
+     /* banner resp  */
+
+    
+    .banner{
+
+        width: auto;
+        height:480px;
+    }
+
+    .banner h1{
+      font-size: 30px;
+      position: relative;
+      top:10%;
+    }
+    .banner h5{
+        position: relative;
+        top:10%
+    }
+    .select{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top:20%;
+        margin-left: 0px;
+        width: 900px;
+        align-items: normal;
+    }
+    .select input , select{
+        width: 300px;
+        margin-left: 30px;
+    }
+    .select button{
+        width: 300px;
+        margin-left: 30px;
+    }
+
+    /* navigation bar styles */
+
+    .nav li{
+        display: none;
+    
+    }
+        
+
+}
+    
