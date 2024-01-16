@@ -480,6 +480,33 @@ margin-top: 50px;
 margin: 30px auto;
  text-align: center;
 }
+.best{
+    margin-top: 80px;
+    border-radius: 16px;
+background: rgba(251, 181, 99, 0.05);
+margin-bottom: 80px;
+}
+.best h1{
+    color: #131318;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 50px;
+
+
+    
+}
+.face{
+    display:flex;
+    justify-content: space-around;
+    gap: 20px;
+
+}
+.face img{
+    width: 573px;
+    height: 300px;
+    
+}
 
 
 
