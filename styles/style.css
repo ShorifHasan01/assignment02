@@ -176,6 +176,95 @@ text-align: center;
     margin-top: 20px;
     height: auto;
  }
+  
+ .choose{
+    margin-top:80px;
+height: 200px;
+ }
+ .choose h1{
+    color: #131318;
+text-align: center;
+ font-size: 2.5rem;
+ font-weight: 800;
+ margin-bottom: 20px;
+ }
+ .choose p{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400; 
+ }
+  /* service us section */
+.service{
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+}
+.hotel{
+    width: 573px;
+height: 280px;
+border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+}
+.world{
+    width: 573px;
+    height: 280px;
+    border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+
+}
+.H1{
+margin-top: 50px;
+margin-left: 50px;
+}
+.H2{
+margin-top: 20px;
+margin-left: 50px;
+}
+.H3{
+margin-top: 20px;
+margin-left: 50px;
+}
+.H4{
+margin-top: 50px;
+margin-left: 50px;
+}
+.H5{
+margin-top: 20px;
+margin-left: 50px;
+}
+.H6{
+margin-top: 20px;
+margin-left: 50px;
+}
+.service1{
+    height: auto;
+}
+.price{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    margin: 20px auto;
+   
+}
+.H7{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.H8{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.H9{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
 
 
 

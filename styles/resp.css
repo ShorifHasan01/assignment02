@@ -104,7 +104,31 @@
     margin: 0px 30px;
 
 }
+ /* service section */
+.service{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 
+}
+.hotel{
+    width: 415px;
+        height: 300px;
+        margin: 0px 30px;
+}
+.world{
+    width: 415px;
+    height: 300px;
+    margin: 0px 30px;   
+}
+.service1{
+    height: auto;
+}
+.price{
+    width: 415px;
+    height: 300px;
+    margin: 20px 30px; 
+}
 
 }
     
