@@ -176,6 +176,17 @@ width: 200px;
 height: 79.268px;
 transform: rotate(-19.628deg);
 }
+footer{
+    margin-top: 300px;
+}
+.speech p{
+    width:250px;
+    color: #5A5A5D;
+text-align: center; 
+font-size: 0.9rem;
+font-weight: 400;
+line-height: 24px;
+}
 
 }
 
