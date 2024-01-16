@@ -129,6 +129,54 @@
     height: 300px;
     margin: 20px 30px; 
 }
+/* banner 1  */
+.align{
+    width: 400px;
+    position: relative;
+    left: 5%;
+}
+/* banner2 style */
+.align1{
+    width: 400px;
+    position: relative;
+    left: 5%;
+}
+/* button */
+.button {
+    margin-right:45%;
+}
+/* video section respon */
+.video{
+    display: flex;
+    flex-direction: column;
 
 }
+.picture img{
+    width: 415px;
+    height: 200px;
+    margin: 0px 30px;  
+}
+/* subscribe section respon */
+ .subscribe{
+    display: flex;
+    flex-direction: column;
+ }
+ .form{
+    width: 430px;
+    height: 353px;
+    flex-shrink: 0;
+ }
+ .hill{
+    width: 420px;
+height: 300px;
+flex-shrink: 0;
+ }
+.hill-container{
+width: 200px;
+height: 79.268px;
+transform: rotate(-19.628deg);
+}
+
+}
+
     
